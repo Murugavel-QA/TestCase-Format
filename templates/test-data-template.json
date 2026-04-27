@@ -1,0 +1,16 @@
+{
+  "<moduleKey>": {
+    "valid": {
+      "<fieldName>": "<valid-value>",
+      "<fieldName2>": "<valid-value2>"
+    },
+    "invalid": {
+      "<fieldName>": "<invalid-value>",
+      "<fieldName2>": "<invalid-value2>"
+    },
+    "boundary": {
+      "<fieldName>": "<boundary-value>",
+      "<fieldName2>": "<boundary-value2>"
+    }
+  }
+}
